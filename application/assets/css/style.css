@@ -1,0 +1,12 @@
+body, html {
+    font-size: 11px;
+}
+
+header {
+    border-bottom: 2px solid black;
+}
+
+header {
+    border-top: 2px solid black;
+    text-align: center;
+}
